@@ -219,6 +219,15 @@ body
 	width:30px;
 	height:31px;
 }
+a 
+{
+    text-decoration: none; 
+} 
+a:hover 
+{ 
+    text-decoration: underline; 
+    color: black; 
+}
 @media screen and (min-width: 1000px)
 {
 	.container{
