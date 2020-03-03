@@ -453,11 +453,15 @@ body
 	{
 		margin:auto;
 	}
-.galochka
-{
-	width: 70px;
-	height: 70px;
-	margin-left:20px;
-}
+	.galochka
+	{
+		width: 70px;
+		height: 70px;
+		margin-left:20px;
+	}
+	a
+	{
+		justify-content:center;	
+	}
 
 }
